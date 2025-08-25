@@ -1,4 +1,4 @@
-//this code using jav
+//this code using java
 class Solution {
   public List<String> summaryRanges(int[] nums) {
     List<String> ans = new ArrayList<>();
