@@ -1,4 +1,4 @@
-
+//simple calculator in java
 class Solution {
  public:
   int calculate(string s) {
