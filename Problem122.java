@@ -1,4 +1,4 @@
-//Best time to Bu
+//Best time to Buy
 class Solution {
   public int maxProfit(int[] prices) {
     int sell = 0;
