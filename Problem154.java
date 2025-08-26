@@ -1,4 +1,4 @@
-//find first miss
+//find first missing
 class Solution {
   public int firstMissingPositive(int[] nums) {
     final int n = nums.length;
