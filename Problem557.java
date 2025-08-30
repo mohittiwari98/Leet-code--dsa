@@ -1,4 +1,4 @@
-//Reverse ab word in string probl
+//Reverse ab word in string proble
 class Solution {
  public:
   string reverseWords(string s) {
