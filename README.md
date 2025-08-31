@@ -1,4 +1,4 @@
-List of problem solved on Leet
+List of problem solved on Leetcode
 problem 226 and problem 227,228
 problem 154,problem 122
 my leetcode
