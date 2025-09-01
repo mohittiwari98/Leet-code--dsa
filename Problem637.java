@@ -14,3 +14,9 @@ class Solution {
         if (node.right != null)
           q.offer(node.right);
           }
+      ans.add(sum / (double) size);
+    }
+
+    return ans;
+  }
+}
