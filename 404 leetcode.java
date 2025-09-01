@@ -1,3 +1,4 @@
+//find left partvsum of tree
 class Solution {
   public int sumOfLeftLeaves(TreeNode root) {
     if (root == null)
